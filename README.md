@@ -21,7 +21,7 @@ Linear Algebra Coursework
 │   ├── Best-Fit Hyperplane Fitting & Residual Minimization
 │   └── Colab Numerical Simulations & Output Figures
 └── Level 3: Jackfruit Project (Urban Traffic Flow Analysis)
-    └── (Dedicated Repository: bangalore-traffic-pattern-analysis)
+    └── (Dedicated Repository: Traffic-Flow-Pattern-Detection-LA)
 ```
 
 ---
@@ -52,7 +52,7 @@ Linear Algebra Coursework
 ---
 
 ### 🍈 Level 3: Jackfruit Final Project (Urban Traffic Analysis)
-* 🔗 **Dedicated Repository**: [**`Tanmayi-n14/bangalore-traffic-pattern-analysis`**](https://github.com/Tanmayi-n14/bangalore-traffic-pattern-analysis)
+* 🔗 **Dedicated Repository**: [**`Tanmayi-n14/Traffic-Flow-Pattern-Detection-LA`**](https://github.com/Tanmayi-n14/Traffic-Flow-Pattern-Detection-LA)
 * Urban vehicular flow modeling using RREF, matrix rank reduction for sensor deployment optimization, and multivariate least squares traffic congestion prediction across arterial Bengaluru corridors.
 
 ---
