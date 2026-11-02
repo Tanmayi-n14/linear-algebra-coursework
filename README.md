@@ -75,5 +75,6 @@ data = sio.loadmat('users_movies.mat')
 ---
 
 ## 👤 Author
+
 * **Tanmayi Nagabhairava** ([@Tanmayi-n14](https://github.com/Tanmayi-n14)) — `PES1UG24CS493`
 * Department of Computer Science & Engineering, PES University
